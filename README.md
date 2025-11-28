@@ -1,33 +1,43 @@
-<h1 align="center">Olá! 👋 Eu sou o Rikelry</h1>
+<h1 align="center">👋 Olá! Eu sou o Rikelry</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+TI;Desenvolvedor+Full+Stack+em+Evolução;Apaixonado+por+Tecnologia+e+Aprendizado&center=true&width=520&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+TI;Desenvolvedor+Full+Stack+em+Evolução;Fã+de+Tecnologia+e+Aprendizado;Construindo+meu+Futuro+Com+Código&center=true&width=600&height=45" />
 </p>
+
+---
+
+<div align="center">
+  
+![Stars](https://img.shields.io/github/stars/Vcoder-00?style=for-the-badge&logo=github&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=Vcoder-00&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Vcoder-00?style=for-the-badge&logo=github&label=FOLLOWERS)
+
+</div>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Tecnologia da Informação** e apaixonado pelo processo de criar, ajustar e melhorar sistemas.  
-Meu foco é desenvolvimento **full stack**, explorando tecnologias que me desafiem e fortaleçam minha lógica e visão como dev.
+Sou estudante de **Tecnologia da Informação** em constante evolução.  
+Exploro o mundo do desenvolvimento **full stack**, aprimorando minha lógica, organização e visão como dev.
 
-Gosto de **código limpo**, **clareza nas ideias** e de evoluir constantemente.  
-Acredito no poder da prática diária, da curiosidade e da construção de projetos reais.
+Gosto de **código limpo**, **boa arquitetura** e de aprender um pouco mais todos os dias.  
+Acredito que evolução vem de prática, consistência e curiosidade.
 
-> 💬 “Cada linha de código é uma oportunidade de ser melhor do que ontem.”
-
----
-
-## 🎯 Objetivos no GitHub
-
-- Construir um portfólio sólido com projetos reais  
-- Aperfeiçoar minhas habilidades técnicas e de arquitetura  
-- Colaborar com a comunidade e aprender com outros devs  
-- Evoluir até me tornar um **desenvolvedor full stack completo**
+> 💬 “Cada commit é um passo rumo à maestria.”
 
 ---
 
-## 🛠️ Tecnologias que estudo e utilizo
+## 🎯 Meus objetivos no GitHub
+
+- Criar projetos cada vez mais completos  
+- Registrar meu aprendizado e minha evolução  
+- Contribuir com a comunidade de devs  
+- Me tornar um desenvolvedor full stack altamente qualificado  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -43,28 +53,43 @@ Acredito no poder da prática diária, da curiosidade e da construção de proje
 
 ---
 
+## ⚡ Badges animadas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vcoder-00&theme=dracula&no-bg=true&margin-w=10" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vcoder-00&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vcoder-00&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vcoder-00&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 ## 💼 Soft Skills
 
-- Curiosidade e sede por aprendizado  
+- Comunicação clara  
+- Resiliência para resolver problemas  
 - Organização e foco  
-- Boa comunicação  
-- Resiliência diante de desafios  
-- Espírito colaborativo  
-- Vontade constante de evoluir  
+- Curiosidade e aprendizado constante  
+- Trabalhar bem em equipe  
 
 ---
 
 ## 🌱 Atualmente estudando
 
-- Fundamentos mais sólidos de **lógica de programação**  
-- Melhores práticas com **JavaScript & TypeScript**  
-- Git, GitHub e fluxo de desenvolvimento profissional  
-- Padrões, boas práticas e organização de projetos  
+- JavaScript & TypeScript avançado  
+- Estruturas de dados e lógica mais profunda  
+- Git e GitHub (workflow profissional)  
+- Boas práticas de programação e arquitetura  
 
 ---
 
 <p align="center">
-  ✨ Obrigado por visitar meu perfil!  
+  ⭐ Obrigado por visitar!  
   <br>
-  Sempre em evolução, um commit por vez 🚀
+  Sempre melhorando, sempre em movimento 🚀  
 </p>
