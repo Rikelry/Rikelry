@@ -63,17 +63,6 @@ Acredito no poder da prática diária, da curiosidade e da construção de proje
 
 ---
 
-## 📫 Entre em contato
-
-<div align="left">
-
-- ✉️ Email: **seu-email-aqui**  
-- 🌐 LinkedIn: **seu-linkedin-aqui**  
-
-</div>
-
----
-
 <p align="center">
   ✨ Obrigado por visitar meu perfil!  
   <br>
