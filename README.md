@@ -16,6 +16,22 @@
 
 ---
 
+## ⚡ Badges animadas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rikelry&theme=dracula&no-bg=true&margin-w=10" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rikelry&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rikelry&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikelry&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 ## 🚀 Sobre mim
 
 Sou estudante de **Tecnologia da Informação** em constante evolução.  
@@ -48,22 +64,6 @@ Acredito que evolução vem de prática, consistência e curiosidade.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## ⚡ Badges animadas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vcoder-00&theme=dracula&no-bg=true&margin-w=10" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vcoder-00&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vcoder-00&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vcoder-00&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
