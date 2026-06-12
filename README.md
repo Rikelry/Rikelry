@@ -1,4 +1,4 @@
-**"Hello, world"** Eu me chamo Rikelry!
+# **"Hello, world"** Eu me chamo Rikelry!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+TI;Desenvolvedor+Full+Stack+em+Evolução;Fã+de+Tecnologia+e+Aprendizado;Construindo+meu+Futuro+Com+Código&center=true&width=600&height=45" />
