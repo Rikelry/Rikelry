@@ -58,7 +58,7 @@
 
 ## 📚 Atualmente estudando
 
-* Python e React avançado
+* Tecnologias de container como Podman e Docker
 * Estruturas de dados e algoritmos
 * Git e GitHub com workflow profissional
 * Arquitetura e boas práticas de software
