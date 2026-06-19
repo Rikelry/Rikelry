@@ -1,4 +1,4 @@
-# `Hello, world` 👋 Eu me chamo Rikelry!
+# `Hello, world!` 👋 Eu me chamo Rikelry!
 
 > 💬 "Cada commit é um passo rumo à maestria."
 
